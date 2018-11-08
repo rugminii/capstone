@@ -1,2 +1,2 @@
 # capstone
-Cybersecurity game
+Cybersecurity Game
